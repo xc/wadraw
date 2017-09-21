@@ -1,7 +1,7 @@
 # wadraw
 A drawing library experiment using web assembly.
 
-Initical idea: Performance is the key. 
+Initicial idea: performance is everything for low level library. 
 
 Supporting:
 
